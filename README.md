@@ -1,1 +1,4 @@
-# student-list
+# student-profiles
+
+npm install
+npm run dev
